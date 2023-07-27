@@ -1,0 +1,1002 @@
+id_dane_techniczne_auta,silnik,moc_silnika,pojemosc_silnika,rodzaj_paliwa
+1,Elektryczny,58,42,LPG
+2,Elektryczny,88,51,Elektryczny
+3,Elektryczny,17,37,Olej napedowy
+4,Elektryczny,45,74,Benzyna
+5,Diesel,33,65,Olej napedowy
+6,Elektryczny,65,80,LPG
+7,Diesel,22,4,LPG
+8,Benzynowy,83,71,Olej napedowy
+9,Elektryczny,14,77,LPG
+10,Elektryczny,47,86,Elektryczny
+11,Diesel,95,46,Olej napedowy
+12,Diesel,90,31,Olej napedowy
+13,Elektryczny,45,27,Elektryczny
+14,Benzynowy,44,30,Elektryczny
+15,Benzynowy,81,97,Olej napedowy
+16,Elektryczny,93,25,Benzyna
+17,Elektryczny,55,31,Benzyna
+18,Elektryczny,60,97,Olej napedowy
+19,Diesel,41,96,LPG
+20,Diesel,36,87,Olej napedowy
+21,Elektryczny,66,60,Elektryczny
+22,Benzynowy,48,32,Olej napedowy
+23,Elektryczny,55,34,Olej napedowy
+24,Benzynowy,22,61,LPG
+25,Diesel,59,32,LPG
+26,Elektryczny,82,78,Olej napedowy
+27,Elektryczny,39,78,Elektryczny
+28,Diesel,40,51,LPG
+29,Benzynowy,59,13,Olej napedowy
+30,Benzynowy,35,56,Olej napedowy
+31,Elektryczny,43,94,Benzyna
+32,Elektryczny,82,80,Olej napedowy
+33,Diesel,41,78,Benzyna
+34,Benzynowy,34,96,Benzyna
+35,Diesel,84,97,LPG
+36,Benzynowy,61,42,LPG
+37,Diesel,51,4,Benzyna
+38,Diesel,71,43,Olej napedowy
+39,Diesel,89,11,Olej napedowy
+40,Diesel,98,100,LPG
+41,Diesel,62,24,Olej napedowy
+42,Benzynowy,8,49,Benzyna
+43,Elektryczny,30,69,Elektryczny
+44,Elektryczny,86,100,Benzyna
+45,Benzynowy,40,76,LPG
+46,Benzynowy,27,7,Elektryczny
+47,Benzynowy,46,15,Benzyna
+48,Diesel,63,63,Benzyna
+49,Benzynowy,61,62,Olej napedowy
+50,Benzynowy,37,12,LPG
+51,Elektryczny,73,45,LPG
+52,Elektryczny,43,54,Olej napedowy
+53,Diesel,79,37,Benzyna
+54,Elektryczny,35,66,Benzyna
+55,Elektryczny,95,89,Elektryczny
+56,Diesel,92,42,Benzyna
+57,Elektryczny,13,29,Benzyna
+58,Benzynowy,64,29,Benzyna
+59,Elektryczny,71,67,Elektryczny
+60,Benzynowy,87,71,Olej napedowy
+61,Benzynowy,9,56,LPG
+62,Elektryczny,51,14,Elektryczny
+63,Benzynowy,36,19,LPG
+64,Diesel,39,18,LPG
+65,Benzynowy,1,14,LPG
+66,Elektryczny,55,4,Elektryczny
+67,Benzynowy,60,87,Elektryczny
+68,Benzynowy,89,99,Olej napedowy
+69,Diesel,5,94,Olej napedowy
+70,Benzynowy,77,31,Elektryczny
+71,Benzynowy,52,58,Olej napedowy
+72,Benzynowy,49,1,Elektryczny
+73,Diesel,16,54,Olej napedowy
+74,Benzynowy,55,35,LPG
+75,Diesel,99,60,LPG
+76,Diesel,62,41,Olej napedowy
+77,Benzynowy,40,57,LPG
+78,Elektryczny,58,90,Olej napedowy
+79,Elektryczny,89,18,Elektryczny
+80,Benzynowy,95,62,LPG
+81,Diesel,43,48,Olej napedowy
+82,Benzynowy,14,42,Olej napedowy
+83,Elektryczny,55,53,Benzyna
+84,Elektryczny,48,43,Elektryczny
+85,Diesel,7,40,Benzyna
+86,Benzynowy,90,92,Olej napedowy
+87,Diesel,63,97,Olej napedowy
+88,Diesel,19,21,Benzyna
+89,Elektryczny,68,29,Elektryczny
+90,Benzynowy,54,40,Elektryczny
+91,Benzynowy,63,8,Olej napedowy
+92,Benzynowy,53,64,Elektryczny
+93,Benzynowy,47,52,LPG
+94,Diesel,48,19,LPG
+95,Benzynowy,89,92,Benzyna
+96,Elektryczny,4,91,Elektryczny
+97,Benzynowy,37,16,Benzyna
+98,Elektryczny,47,63,Benzyna
+99,Diesel,38,65,LPG
+100,Elektryczny,56,43,Elektryczny
+101,Benzynowy,86,97,Elektryczny
+102,Benzynowy,80,21,LPG
+103,Benzynowy,63,89,LPG
+104,Elektryczny,10,84,LPG
+105,Elektryczny,59,34,LPG
+106,Diesel,44,93,Olej napedowy
+107,Benzynowy,95,68,Benzyna
+108,Diesel,9,34,Olej napedowy
+109,Diesel,43,49,LPG
+110,Elektryczny,14,30,LPG
+111,Diesel,34,62,Elektryczny
+112,Diesel,84,75,Elektryczny
+113,Benzynowy,26,19,Benzyna
+114,Diesel,50,45,Elektryczny
+115,Benzynowy,95,10,LPG
+116,Elektryczny,99,18,Benzyna
+117,Diesel,2,16,Olej napedowy
+118,Diesel,2,72,Elektryczny
+119,Benzynowy,90,3,Elektryczny
+120,Benzynowy,83,53,Benzyna
+121,Elektryczny,63,1,LPG
+122,Elektryczny,51,94,Benzyna
+123,Elektryczny,81,26,Olej napedowy
+124,Diesel,42,76,Olej napedowy
+125,Elektryczny,98,51,Benzyna
+126,Benzynowy,68,28,Olej napedowy
+127,Diesel,87,47,Benzyna
+128,Benzynowy,2,32,LPG
+129,Diesel,35,97,Olej napedowy
+130,Diesel,99,50,Elektryczny
+131,Elektryczny,98,29,Benzyna
+132,Elektryczny,48,10,LPG
+133,Diesel,48,40,Olej napedowy
+134,Benzynowy,83,74,Olej napedowy
+135,Benzynowy,1,54,Benzyna
+136,Diesel,57,7,Elektryczny
+137,Elektryczny,57,3,Elektryczny
+138,Elektryczny,78,38,LPG
+139,Benzynowy,35,34,Benzyna
+140,Benzynowy,68,3,Olej napedowy
+141,Elektryczny,26,71,Benzyna
+142,Elektryczny,16,34,Benzyna
+143,Diesel,82,87,Olej napedowy
+144,Diesel,6,4,Olej napedowy
+145,Diesel,15,47,LPG
+146,Benzynowy,90,35,LPG
+147,Diesel,38,60,Olej napedowy
+148,Elektryczny,66,31,Olej napedowy
+149,Benzynowy,40,67,LPG
+150,Diesel,30,75,Olej napedowy
+151,Benzynowy,77,10,LPG
+152,Benzynowy,16,23,Benzyna
+153,Diesel,87,23,LPG
+154,Diesel,3,10,Elektryczny
+155,Diesel,93,18,Olej napedowy
+156,Elektryczny,97,76,LPG
+157,Diesel,51,38,Benzyna
+158,Diesel,50,88,Benzyna
+159,Elektryczny,81,12,Elektryczny
+160,Benzynowy,56,15,Elektryczny
+161,Diesel,89,24,Benzyna
+162,Elektryczny,21,50,Elektryczny
+163,Benzynowy,34,5,Olej napedowy
+164,Diesel,44,58,Benzyna
+165,Diesel,64,92,LPG
+166,Diesel,76,76,Olej napedowy
+167,Elektryczny,63,93,Benzyna
+168,Benzynowy,12,37,Benzyna
+169,Elektryczny,67,76,LPG
+170,Elektryczny,82,93,Benzyna
+171,Diesel,93,47,LPG
+172,Elektryczny,36,98,Elektryczny
+173,Elektryczny,28,80,Benzyna
+174,Elektryczny,22,84,LPG
+175,Diesel,44,17,Elektryczny
+176,Elektryczny,3,34,LPG
+177,Elektryczny,64,57,Olej napedowy
+178,Diesel,91,9,LPG
+179,Benzynowy,68,95,Olej napedowy
+180,Benzynowy,75,17,Benzyna
+181,Benzynowy,81,81,LPG
+182,Benzynowy,74,32,LPG
+183,Elektryczny,32,50,Olej napedowy
+184,Benzynowy,56,57,Elektryczny
+185,Benzynowy,24,74,LPG
+186,Benzynowy,92,7,LPG
+187,Benzynowy,79,41,LPG
+188,Benzynowy,34,68,Olej napedowy
+189,Benzynowy,98,69,Olej napedowy
+190,Elektryczny,97,65,Benzyna
+191,Diesel,11,65,Olej napedowy
+192,Diesel,95,88,LPG
+193,Benzynowy,81,1,Benzyna
+194,Diesel,12,6,LPG
+195,Diesel,42,55,LPG
+196,Benzynowy,25,19,Elektryczny
+197,Elektryczny,63,76,Benzyna
+198,Benzynowy,46,62,Elektryczny
+199,Diesel,37,39,Benzyna
+200,Benzynowy,12,38,Benzyna
+201,Elektryczny,63,64,Olej napedowy
+202,Diesel,16,71,LPG
+203,Benzynowy,99,48,Benzyna
+204,Elektryczny,79,48,Benzyna
+205,Benzynowy,41,33,LPG
+206,Benzynowy,35,54,LPG
+207,Benzynowy,56,89,LPG
+208,Elektryczny,22,50,LPG
+209,Diesel,83,66,LPG
+210,Benzynowy,93,83,Olej napedowy
+211,Diesel,60,32,Olej napedowy
+212,Elektryczny,56,24,Benzyna
+213,Diesel,72,7,Benzyna
+214,Diesel,70,83,Elektryczny
+215,Diesel,2,7,Elektryczny
+216,Diesel,57,69,LPG
+217,Elektryczny,66,62,Benzyna
+218,Elektryczny,41,18,Elektryczny
+219,Diesel,65,32,Elektryczny
+220,Benzynowy,76,81,Olej napedowy
+221,Elektryczny,41,51,Elektryczny
+222,Benzynowy,82,33,Elektryczny
+223,Benzynowy,49,78,Olej napedowy
+224,Diesel,47,91,LPG
+225,Elektryczny,20,58,LPG
+226,Elektryczny,20,31,LPG
+227,Elektryczny,13,51,Elektryczny
+228,Diesel,38,21,Olej napedowy
+229,Elektryczny,82,69,Olej napedowy
+230,Diesel,34,93,LPG
+231,Diesel,87,83,Olej napedowy
+232,Elektryczny,62,87,Elektryczny
+233,Diesel,18,48,Olej napedowy
+234,Diesel,43,13,Olej napedowy
+235,Benzynowy,30,25,Olej napedowy
+236,Elektryczny,41,88,Elektryczny
+237,Benzynowy,80,98,Olej napedowy
+238,Diesel,63,27,Olej napedowy
+239,Diesel,44,44,Elektryczny
+240,Diesel,76,47,Olej napedowy
+241,Benzynowy,8,88,Elektryczny
+242,Elektryczny,32,79,Olej napedowy
+243,Diesel,44,32,Benzyna
+244,Diesel,44,76,Elektryczny
+245,Elektryczny,57,32,Elektryczny
+246,Diesel,6,79,Benzyna
+247,Benzynowy,63,93,Elektryczny
+248,Elektryczny,99,94,Benzyna
+249,Elektryczny,91,57,Benzyna
+250,Elektryczny,7,26,Olej napedowy
+251,Benzynowy,63,14,Olej napedowy
+252,Benzynowy,30,16,Olej napedowy
+253,Diesel,77,83,Elektryczny
+254,Benzynowy,27,80,Olej napedowy
+255,Benzynowy,11,82,Benzyna
+256,Diesel,1,81,LPG
+257,Diesel,6,32,Elektryczny
+258,Elektryczny,53,88,Benzyna
+259,Benzynowy,74,70,Benzyna
+260,Diesel,46,21,Elektryczny
+261,Diesel,98,34,LPG
+262,Diesel,79,19,Elektryczny
+263,Benzynowy,74,82,Elektryczny
+264,Benzynowy,2,25,LPG
+265,Diesel,47,20,Benzyna
+266,Benzynowy,18,61,Benzyna
+267,Elektryczny,86,61,LPG
+268,Elektryczny,93,32,Benzyna
+269,Benzynowy,2,60,Benzyna
+270,Elektryczny,33,4,Benzyna
+271,Benzynowy,44,34,Elektryczny
+272,Elektryczny,37,65,LPG
+273,Benzynowy,54,49,Elektryczny
+274,Benzynowy,88,100,Olej napedowy
+275,Elektryczny,67,1,Olej napedowy
+276,Benzynowy,30,98,Benzyna
+277,Elektryczny,60,48,LPG
+278,Diesel,4,78,Benzyna
+279,Elektryczny,79,95,Benzyna
+280,Diesel,30,87,Benzyna
+281,Benzynowy,47,40,LPG
+282,Elektryczny,83,17,Benzyna
+283,Diesel,70,18,LPG
+284,Diesel,7,68,Benzyna
+285,Diesel,39,63,Olej napedowy
+286,Diesel,89,77,Elektryczny
+287,Diesel,86,49,Benzyna
+288,Benzynowy,78,93,Benzyna
+289,Elektryczny,14,89,Elektryczny
+290,Elektryczny,54,78,Benzyna
+291,Elektryczny,47,33,Elektryczny
+292,Elektryczny,47,30,Olej napedowy
+293,Benzynowy,83,36,Elektryczny
+294,Elektryczny,76,85,LPG
+295,Elektryczny,16,53,Benzyna
+296,Diesel,66,64,LPG
+297,Benzynowy,15,63,Benzyna
+298,Diesel,23,24,Elektryczny
+299,Benzynowy,70,42,Benzyna
+300,Benzynowy,79,43,LPG
+301,Elektryczny,99,98,LPG
+302,Elektryczny,59,17,Olej napedowy
+303,Diesel,48,73,Olej napedowy
+304,Benzynowy,8,92,Olej napedowy
+305,Benzynowy,41,18,LPG
+306,Diesel,77,21,Elektryczny
+307,Benzynowy,77,14,LPG
+308,Benzynowy,1,8,LPG
+309,Diesel,33,88,Olej napedowy
+310,Benzynowy,21,88,Olej napedowy
+311,Benzynowy,45,99,Elektryczny
+312,Elektryczny,99,45,Benzyna
+313,Benzynowy,51,22,Olej napedowy
+314,Elektryczny,15,29,Elektryczny
+315,Elektryczny,25,66,Benzyna
+316,Elektryczny,77,56,Benzyna
+317,Elektryczny,53,47,LPG
+318,Diesel,79,1,Elektryczny
+319,Benzynowy,46,49,Olej napedowy
+320,Benzynowy,78,35,Benzyna
+321,Elektryczny,90,82,LPG
+322,Benzynowy,97,66,Benzyna
+323,Diesel,96,87,LPG
+324,Elektryczny,49,77,Elektryczny
+325,Diesel,2,39,Olej napedowy
+326,Benzynowy,48,100,Benzyna
+327,Benzynowy,32,82,LPG
+328,Diesel,3,35,LPG
+329,Elektryczny,23,3,Olej napedowy
+330,Benzynowy,61,82,LPG
+331,Elektryczny,46,32,Olej napedowy
+332,Elektryczny,81,36,Benzyna
+333,Elektryczny,81,76,LPG
+334,Benzynowy,20,35,Elektryczny
+335,Diesel,96,10,LPG
+336,Benzynowy,54,65,LPG
+337,Benzynowy,70,42,Elektryczny
+338,Diesel,97,30,LPG
+339,Elektryczny,79,4,Olej napedowy
+340,Benzynowy,55,34,LPG
+341,Elektryczny,99,47,Benzyna
+342,Benzynowy,6,75,Olej napedowy
+343,Elektryczny,67,67,Elektryczny
+344,Benzynowy,84,23,Benzyna
+345,Benzynowy,55,24,Benzyna
+346,Elektryczny,58,64,LPG
+347,Elektryczny,41,60,Olej napedowy
+348,Diesel,98,96,Olej napedowy
+349,Benzynowy,74,78,Olej napedowy
+350,Diesel,71,7,LPG
+351,Diesel,8,53,Elektryczny
+352,Diesel,40,38,LPG
+353,Benzynowy,51,91,LPG
+354,Elektryczny,69,59,Benzyna
+355,Elektryczny,35,75,Elektryczny
+356,Elektryczny,41,56,Benzyna
+357,Elektryczny,27,38,Elektryczny
+358,Benzynowy,96,73,Elektryczny
+359,Benzynowy,97,16,Elektryczny
+360,Elektryczny,18,43,Benzyna
+361,Benzynowy,93,67,Olej napedowy
+362,Diesel,33,57,Olej napedowy
+363,Diesel,61,34,LPG
+364,Diesel,40,92,Elektryczny
+365,Benzynowy,33,37,Olej napedowy
+366,Benzynowy,8,93,LPG
+367,Diesel,79,89,Elektryczny
+368,Diesel,72,19,Olej napedowy
+369,Diesel,45,69,Olej napedowy
+370,Elektryczny,8,42,Elektryczny
+371,Diesel,83,23,LPG
+372,Diesel,33,38,LPG
+373,Benzynowy,67,19,LPG
+374,Diesel,92,5,Olej napedowy
+375,Benzynowy,79,17,Elektryczny
+376,Benzynowy,50,75,Olej napedowy
+377,Elektryczny,69,89,LPG
+378,Benzynowy,95,56,Benzyna
+379,Elektryczny,6,53,Elektryczny
+380,Benzynowy,8,63,Elektryczny
+381,Benzynowy,50,99,LPG
+382,Elektryczny,95,18,Benzyna
+383,Elektryczny,34,51,Elektryczny
+384,Elektryczny,73,32,Benzyna
+385,Benzynowy,31,18,Olej napedowy
+386,Elektryczny,3,35,Benzyna
+387,Diesel,26,77,Elektryczny
+388,Elektryczny,31,86,Olej napedowy
+389,Diesel,11,19,LPG
+390,Benzynowy,51,2,LPG
+391,Benzynowy,89,15,LPG
+392,Diesel,19,23,Elektryczny
+393,Diesel,26,76,Benzyna
+394,Diesel,31,53,Benzyna
+395,Benzynowy,91,85,Benzyna
+396,Elektryczny,91,19,Olej napedowy
+397,Diesel,50,24,Elektryczny
+398,Elektryczny,94,1,LPG
+399,Benzynowy,9,3,Benzyna
+400,Elektryczny,87,44,Benzyna
+401,Diesel,3,69,Benzyna
+402,Elektryczny,92,3,Elektryczny
+403,Benzynowy,57,9,LPG
+404,Diesel,98,76,Elektryczny
+405,Elektryczny,81,48,Elektryczny
+406,Benzynowy,9,50,Benzyna
+407,Diesel,55,21,Olej napedowy
+408,Elektryczny,41,60,LPG
+409,Benzynowy,54,95,LPG
+410,Benzynowy,58,23,Benzyna
+411,Elektryczny,24,12,Elektryczny
+412,Diesel,62,49,Olej napedowy
+413,Benzynowy,43,87,Benzyna
+414,Elektryczny,22,75,Benzyna
+415,Benzynowy,70,16,Olej napedowy
+416,Diesel,59,1,Olej napedowy
+417,Benzynowy,58,28,Olej napedowy
+418,Elektryczny,94,68,Elektryczny
+419,Diesel,39,79,LPG
+420,Diesel,21,6,Olej napedowy
+421,Elektryczny,57,53,LPG
+422,Benzynowy,94,3,Elektryczny
+423,Elektryczny,12,19,Benzyna
+424,Diesel,91,82,Elektryczny
+425,Elektryczny,94,57,LPG
+426,Elektryczny,89,86,Benzyna
+427,Diesel,58,31,Olej napedowy
+428,Benzynowy,46,4,Benzyna
+429,Benzynowy,72,59,LPG
+430,Benzynowy,24,30,Olej napedowy
+431,Diesel,2,44,Benzyna
+432,Elektryczny,24,5,Elektryczny
+433,Benzynowy,92,52,Elektryczny
+434,Benzynowy,25,12,LPG
+435,Elektryczny,56,71,Elektryczny
+436,Benzynowy,90,53,LPG
+437,Diesel,64,9,Benzyna
+438,Elektryczny,69,27,Elektryczny
+439,Benzynowy,80,3,Benzyna
+440,Diesel,88,70,Olej napedowy
+441,Diesel,79,42,Elektryczny
+442,Diesel,10,95,Olej napedowy
+443,Diesel,60,48,Elektryczny
+444,Elektryczny,24,65,Olej napedowy
+445,Diesel,56,28,Benzyna
+446,Diesel,19,4,Elektryczny
+447,Benzynowy,19,51,Benzyna
+448,Benzynowy,49,2,Benzyna
+449,Diesel,1,31,Benzyna
+450,Diesel,27,95,Benzyna
+451,Diesel,96,29,LPG
+452,Diesel,78,48,Olej napedowy
+453,Diesel,16,55,LPG
+454,Diesel,44,98,Benzyna
+455,Benzynowy,91,69,Benzyna
+456,Diesel,77,28,Benzyna
+457,Diesel,26,98,Benzyna
+458,Diesel,37,9,Elektryczny
+459,Benzynowy,100,24,Benzyna
+460,Diesel,90,26,Benzyna
+461,Elektryczny,29,64,Elektryczny
+462,Diesel,14,38,Elektryczny
+463,Benzynowy,53,79,LPG
+464,Elektryczny,95,100,Olej napedowy
+465,Diesel,79,55,Olej napedowy
+466,Diesel,80,53,Benzyna
+467,Benzynowy,36,95,Benzyna
+468,Elektryczny,75,96,Benzyna
+469,Diesel,21,88,Olej napedowy
+470,Benzynowy,61,50,Elektryczny
+471,Benzynowy,93,35,Olej napedowy
+472,Elektryczny,1,98,Benzyna
+473,Elektryczny,89,39,Olej napedowy
+474,Benzynowy,69,79,Olej napedowy
+475,Diesel,31,4,Olej napedowy
+476,Diesel,66,25,Olej napedowy
+477,Benzynowy,16,68,Olej napedowy
+478,Benzynowy,33,86,LPG
+479,Benzynowy,93,10,Olej napedowy
+480,Benzynowy,51,81,Olej napedowy
+481,Diesel,28,94,Benzyna
+482,Benzynowy,67,96,Benzyna
+483,Benzynowy,46,8,LPG
+484,Elektryczny,31,34,Olej napedowy
+485,Elektryczny,19,73,Benzyna
+486,Elektryczny,27,18,Elektryczny
+487,Diesel,94,72,Benzyna
+488,Elektryczny,97,56,LPG
+489,Elektryczny,3,50,Olej napedowy
+490,Diesel,88,93,Olej napedowy
+491,Benzynowy,23,87,LPG
+492,Diesel,37,19,LPG
+493,Diesel,63,11,Benzyna
+494,Diesel,82,62,Benzyna
+495,Elektryczny,65,2,Benzyna
+496,Benzynowy,47,85,Olej napedowy
+497,Benzynowy,77,54,Benzyna
+498,Elektryczny,25,21,LPG
+499,Diesel,37,51,Elektryczny
+500,Diesel,41,39,Olej napedowy
+501,Diesel,26,35,LPG
+502,Elektryczny,52,10,Elektryczny
+503,Elektryczny,13,74,Elektryczny
+504,Elektryczny,77,64,Elektryczny
+505,Benzynowy,26,77,Elektryczny
+506,Diesel,99,26,LPG
+507,Elektryczny,65,68,Olej napedowy
+508,Elektryczny,65,82,LPG
+509,Elektryczny,49,46,Olej napedowy
+510,Elektryczny,33,98,Olej napedowy
+511,Diesel,58,4,LPG
+512,Elektryczny,11,83,Benzyna
+513,Benzynowy,11,20,Benzyna
+514,Elektryczny,86,72,Elektryczny
+515,Benzynowy,92,1,LPG
+516,Diesel,75,55,Olej napedowy
+517,Diesel,3,1,Olej napedowy
+518,Diesel,84,84,Elektryczny
+519,Diesel,24,94,LPG
+520,Diesel,98,7,Benzyna
+521,Elektryczny,99,5,Olej napedowy
+522,Benzynowy,25,42,Olej napedowy
+523,Diesel,81,50,Olej napedowy
+524,Benzynowy,37,73,Benzyna
+525,Benzynowy,40,27,Elektryczny
+526,Benzynowy,37,74,Elektryczny
+527,Diesel,42,28,LPG
+528,Benzynowy,20,18,Benzyna
+529,Elektryczny,69,51,LPG
+530,Elektryczny,9,42,LPG
+531,Elektryczny,30,79,Olej napedowy
+532,Elektryczny,84,37,LPG
+533,Diesel,45,97,Olej napedowy
+534,Elektryczny,24,10,Elektryczny
+535,Diesel,65,97,Benzyna
+536,Diesel,82,78,Elektryczny
+537,Diesel,69,44,Elektryczny
+538,Benzynowy,87,29,Elektryczny
+539,Benzynowy,88,74,Elektryczny
+540,Benzynowy,46,55,Olej napedowy
+541,Diesel,47,50,Elektryczny
+542,Benzynowy,33,70,Elektryczny
+543,Benzynowy,36,18,Elektryczny
+544,Diesel,61,91,Olej napedowy
+545,Elektryczny,79,9,LPG
+546,Benzynowy,51,77,Olej napedowy
+547,Benzynowy,44,21,Elektryczny
+548,Benzynowy,29,98,Benzyna
+549,Elektryczny,35,41,Elektryczny
+550,Elektryczny,8,40,LPG
+551,Elektryczny,62,63,LPG
+552,Diesel,20,87,Benzyna
+553,Benzynowy,73,71,Elektryczny
+554,Elektryczny,61,14,Benzyna
+555,Benzynowy,70,77,Olej napedowy
+556,Benzynowy,22,92,Elektryczny
+557,Elektryczny,62,75,LPG
+558,Elektryczny,56,20,Olej napedowy
+559,Elektryczny,87,52,LPG
+560,Diesel,67,89,Elektryczny
+561,Elektryczny,58,51,Olej napedowy
+562,Diesel,71,3,Olej napedowy
+563,Elektryczny,56,75,LPG
+564,Diesel,53,11,LPG
+565,Benzynowy,79,50,LPG
+566,Diesel,27,96,Elektryczny
+567,Benzynowy,22,61,Olej napedowy
+568,Benzynowy,61,27,Olej napedowy
+569,Benzynowy,36,9,LPG
+570,Benzynowy,60,24,Olej napedowy
+571,Elektryczny,19,19,Elektryczny
+572,Benzynowy,14,65,Benzyna
+573,Diesel,29,53,Elektryczny
+574,Diesel,20,28,Benzyna
+575,Elektryczny,71,47,Benzyna
+576,Elektryczny,43,26,Benzyna
+577,Benzynowy,82,30,LPG
+578,Diesel,43,90,Elektryczny
+579,Benzynowy,69,11,Elektryczny
+580,Elektryczny,21,4,Elektryczny
+581,Benzynowy,19,78,Elektryczny
+582,Elektryczny,88,100,LPG
+583,Elektryczny,7,11,Elektryczny
+584,Elektryczny,78,86,Benzyna
+585,Diesel,17,97,Benzyna
+586,Benzynowy,81,97,Benzyna
+587,Elektryczny,86,60,Benzyna
+588,Elektryczny,92,57,Olej napedowy
+589,Elektryczny,30,20,LPG
+590,Elektryczny,91,39,Olej napedowy
+591,Elektryczny,31,89,Elektryczny
+592,Benzynowy,20,52,Olej napedowy
+593,Diesel,50,77,Benzyna
+594,Benzynowy,13,81,Olej napedowy
+595,Elektryczny,55,87,Elektryczny
+596,Elektryczny,24,85,LPG
+597,Diesel,44,35,Elektryczny
+598,Diesel,7,51,Olej napedowy
+599,Benzynowy,52,31,Olej napedowy
+600,Elektryczny,92,66,Olej napedowy
+601,Diesel,85,79,Olej napedowy
+602,Elektryczny,25,21,LPG
+603,Benzynowy,4,96,Elektryczny
+604,Diesel,43,78,LPG
+605,Elektryczny,93,37,Olej napedowy
+606,Benzynowy,29,59,Benzyna
+607,Elektryczny,52,10,LPG
+608,Benzynowy,32,71,Olej napedowy
+609,Benzynowy,92,57,Benzyna
+610,Diesel,9,79,Elektryczny
+611,Diesel,17,12,Olej napedowy
+612,Benzynowy,28,8,Benzyna
+613,Benzynowy,27,15,LPG
+614,Benzynowy,65,60,Olej napedowy
+615,Benzynowy,75,24,Olej napedowy
+616,Diesel,58,75,Benzyna
+617,Benzynowy,61,8,Olej napedowy
+618,Benzynowy,95,14,Elektryczny
+619,Benzynowy,11,3,Elektryczny
+620,Diesel,62,8,LPG
+621,Benzynowy,64,23,Elektryczny
+622,Benzynowy,54,39,Elektryczny
+623,Benzynowy,26,96,Benzyna
+624,Benzynowy,24,15,Olej napedowy
+625,Benzynowy,4,42,Elektryczny
+626,Diesel,96,75,LPG
+627,Elektryczny,66,40,Olej napedowy
+628,Elektryczny,33,19,LPG
+629,Elektryczny,56,73,LPG
+630,Elektryczny,80,3,Elektryczny
+631,Benzynowy,90,32,Elektryczny
+632,Benzynowy,6,68,Benzyna
+633,Elektryczny,20,64,Elektryczny
+634,Benzynowy,51,30,Olej napedowy
+635,Benzynowy,10,91,Elektryczny
+636,Diesel,93,76,Olej napedowy
+637,Benzynowy,29,94,Benzyna
+638,Elektryczny,94,45,Benzyna
+639,Elektryczny,7,94,LPG
+640,Benzynowy,6,55,Olej napedowy
+641,Diesel,73,46,Elektryczny
+642,Elektryczny,98,30,Benzyna
+643,Benzynowy,49,50,LPG
+644,Diesel,26,87,Olej napedowy
+645,Elektryczny,71,34,Benzyna
+646,Elektryczny,19,24,LPG
+647,Elektryczny,28,96,Elektryczny
+648,Elektryczny,87,28,Olej napedowy
+649,Benzynowy,55,55,Elektryczny
+650,Diesel,67,58,Elektryczny
+651,Benzynowy,36,67,Elektryczny
+652,Elektryczny,7,92,Olej napedowy
+653,Benzynowy,33,71,Elektryczny
+654,Benzynowy,12,21,Benzyna
+655,Diesel,61,90,Benzyna
+656,Diesel,19,17,Olej napedowy
+657,Benzynowy,27,48,LPG
+658,Benzynowy,43,97,Elektryczny
+659,Benzynowy,97,21,LPG
+660,Diesel,67,30,Olej napedowy
+661,Benzynowy,54,79,Elektryczny
+662,Elektryczny,44,30,Olej napedowy
+663,Elektryczny,45,73,Benzyna
+664,Diesel,4,26,Benzyna
+665,Diesel,1,69,Elektryczny
+666,Benzynowy,74,52,Elektryczny
+667,Elektryczny,8,94,Benzyna
+668,Elektryczny,59,80,LPG
+669,Elektryczny,61,100,Benzyna
+670,Elektryczny,15,52,Elektryczny
+671,Benzynowy,84,76,Elektryczny
+672,Elektryczny,35,61,Elektryczny
+673,Elektryczny,46,67,LPG
+674,Diesel,34,31,Benzyna
+675,Benzynowy,85,51,Elektryczny
+676,Diesel,95,95,LPG
+677,Elektryczny,97,65,LPG
+678,Elektryczny,97,41,LPG
+679,Diesel,54,27,Elektryczny
+680,Elektryczny,3,1,Benzyna
+681,Elektryczny,52,5,Benzyna
+682,Elektryczny,1,90,Elektryczny
+683,Elektryczny,2,51,Elektryczny
+684,Elektryczny,55,72,Benzyna
+685,Diesel,69,27,Olej napedowy
+686,Elektryczny,1,53,Olej napedowy
+687,Diesel,73,48,Benzyna
+688,Benzynowy,76,48,Olej napedowy
+689,Elektryczny,92,79,LPG
+690,Elektryczny,37,50,LPG
+691,Benzynowy,45,97,Elektryczny
+692,Diesel,43,91,Olej napedowy
+693,Elektryczny,58,60,LPG
+694,Benzynowy,43,98,Olej napedowy
+695,Elektryczny,50,36,Olej napedowy
+696,Benzynowy,77,52,Olej napedowy
+697,Benzynowy,81,64,LPG
+698,Elektryczny,61,95,LPG
+699,Diesel,40,19,Benzyna
+700,Diesel,87,43,Benzyna
+701,Diesel,37,19,LPG
+702,Elektryczny,4,19,LPG
+703,Diesel,6,23,LPG
+704,Elektryczny,96,100,Olej napedowy
+705,Benzynowy,37,7,Elektryczny
+706,Diesel,6,44,LPG
+707,Diesel,76,24,Elektryczny
+708,Benzynowy,87,38,Olej napedowy
+709,Diesel,80,88,LPG
+710,Diesel,18,77,Olej napedowy
+711,Benzynowy,83,9,LPG
+712,Elektryczny,78,37,Benzyna
+713,Benzynowy,11,5,Elektryczny
+714,Benzynowy,86,50,Olej napedowy
+715,Benzynowy,47,97,Olej napedowy
+716,Diesel,38,12,Elektryczny
+717,Diesel,21,22,Olej napedowy
+718,Benzynowy,17,50,LPG
+719,Benzynowy,25,96,Benzyna
+720,Benzynowy,98,54,Benzyna
+721,Benzynowy,12,11,Elektryczny
+722,Diesel,58,87,Olej napedowy
+723,Elektryczny,35,33,LPG
+724,Benzynowy,21,1,LPG
+725,Elektryczny,19,35,Olej napedowy
+726,Elektryczny,77,85,Benzyna
+727,Benzynowy,7,22,Benzyna
+728,Elektryczny,83,77,LPG
+729,Elektryczny,31,80,Elektryczny
+730,Diesel,59,5,Benzyna
+731,Diesel,60,79,Benzyna
+732,Elektryczny,55,27,LPG
+733,Elektryczny,80,98,Elektryczny
+734,Elektryczny,91,5,LPG
+735,Diesel,98,49,Elektryczny
+736,Benzynowy,27,92,Elektryczny
+737,Elektryczny,21,74,Benzyna
+738,Benzynowy,48,48,Benzyna
+739,Elektryczny,62,88,Elektryczny
+740,Benzynowy,63,54,Elektryczny
+741,Diesel,62,5,Benzyna
+742,Diesel,49,60,Olej napedowy
+743,Elektryczny,60,68,LPG
+744,Diesel,90,16,Benzyna
+745,Elektryczny,14,6,Olej napedowy
+746,Diesel,89,41,LPG
+747,Benzynowy,8,92,Benzyna
+748,Diesel,13,83,Elektryczny
+749,Diesel,68,6,Olej napedowy
+750,Elektryczny,22,2,Olej napedowy
+751,Elektryczny,42,85,Benzyna
+752,Elektryczny,35,41,LPG
+753,Benzynowy,21,45,Olej napedowy
+754,Elektryczny,61,6,Olej napedowy
+755,Diesel,49,93,Benzyna
+756,Benzynowy,53,73,Olej napedowy
+757,Elektryczny,36,39,Benzyna
+758,Benzynowy,33,89,Elektryczny
+759,Diesel,1,76,Benzyna
+760,Benzynowy,45,29,Olej napedowy
+761,Diesel,14,1,LPG
+762,Benzynowy,23,90,Benzyna
+763,Elektryczny,71,97,Elektryczny
+764,Benzynowy,40,96,Olej napedowy
+765,Diesel,25,79,Benzyna
+766,Diesel,18,85,Benzyna
+767,Diesel,51,98,LPG
+768,Diesel,65,53,Olej napedowy
+769,Diesel,72,16,Benzyna
+770,Elektryczny,72,18,Olej napedowy
+771,Benzynowy,75,47,Olej napedowy
+772,Elektryczny,37,28,LPG
+773,Elektryczny,29,28,Olej napedowy
+774,Diesel,36,96,Elektryczny
+775,Diesel,15,58,Elektryczny
+776,Elektryczny,47,13,Olej napedowy
+777,Elektryczny,21,56,Benzyna
+778,Benzynowy,26,44,LPG
+779,Diesel,53,24,Benzyna
+780,Diesel,84,40,Elektryczny
+781,Elektryczny,92,36,LPG
+782,Diesel,74,69,Olej napedowy
+783,Diesel,51,29,LPG
+784,Diesel,33,87,Elektryczny
+785,Benzynowy,79,33,Benzyna
+786,Diesel,60,45,Elektryczny
+787,Elektryczny,26,5,Olej napedowy
+788,Elektryczny,86,17,Elektryczny
+789,Benzynowy,29,75,Olej napedowy
+790,Diesel,76,96,Elektryczny
+791,Elektryczny,54,51,Elektryczny
+792,Diesel,89,14,Elektryczny
+793,Diesel,33,60,LPG
+794,Elektryczny,42,41,Elektryczny
+795,Elektryczny,77,5,LPG
+796,Benzynowy,11,14,Olej napedowy
+797,Diesel,58,81,Olej napedowy
+798,Diesel,74,90,Olej napedowy
+799,Elektryczny,67,71,Benzyna
+800,Elektryczny,30,27,LPG
+801,Elektryczny,67,43,Olej napedowy
+802,Benzynowy,63,64,Benzyna
+803,Diesel,85,55,LPG
+804,Diesel,100,76,Olej napedowy
+805,Diesel,42,96,Olej napedowy
+806,Benzynowy,61,97,LPG
+807,Elektryczny,14,2,Elektryczny
+808,Benzynowy,82,66,Elektryczny
+809,Benzynowy,43,61,Benzyna
+810,Diesel,94,8,LPG
+811,Diesel,64,85,Benzyna
+812,Diesel,43,42,Olej napedowy
+813,Benzynowy,49,78,Olej napedowy
+814,Diesel,93,83,Benzyna
+815,Benzynowy,94,60,LPG
+816,Elektryczny,31,96,Olej napedowy
+817,Elektryczny,45,100,Elektryczny
+818,Elektryczny,15,14,Elektryczny
+819,Elektryczny,86,15,Benzyna
+820,Elektryczny,19,98,Benzyna
+821,Benzynowy,32,14,Olej napedowy
+822,Elektryczny,90,39,Elektryczny
+823,Benzynowy,49,37,Elektryczny
+824,Elektryczny,25,85,Benzyna
+825,Elektryczny,77,2,Olej napedowy
+826,Elektryczny,27,50,Elektryczny
+827,Benzynowy,41,18,Benzyna
+828,Elektryczny,5,74,LPG
+829,Diesel,42,9,Olej napedowy
+830,Benzynowy,25,2,Elektryczny
+831,Diesel,40,71,Benzyna
+832,Elektryczny,42,58,LPG
+833,Elektryczny,89,18,Elektryczny
+834,Benzynowy,37,78,Benzyna
+835,Benzynowy,30,49,Olej napedowy
+836,Benzynowy,7,90,LPG
+837,Elektryczny,78,39,Benzyna
+838,Elektryczny,82,20,LPG
+839,Elektryczny,76,5,LPG
+840,Diesel,72,42,Olej napedowy
+841,Elektryczny,78,47,Elektryczny
+842,Benzynowy,41,6,Olej napedowy
+843,Elektryczny,22,82,Elektryczny
+844,Benzynowy,39,83,Olej napedowy
+845,Diesel,55,34,LPG
+846,Diesel,66,33,Olej napedowy
+847,Benzynowy,64,88,Benzyna
+848,Diesel,55,100,Benzyna
+849,Elektryczny,6,53,Benzyna
+850,Elektryczny,67,52,LPG
+851,Benzynowy,23,15,Olej napedowy
+852,Diesel,72,23,Olej napedowy
+853,Elektryczny,4,93,Olej napedowy
+854,Elektryczny,32,29,Benzyna
+855,Elektryczny,64,33,Olej napedowy
+856,Elektryczny,50,67,LPG
+857,Benzynowy,11,30,Olej napedowy
+858,Benzynowy,68,10,Olej napedowy
+859,Diesel,18,1,Elektryczny
+860,Diesel,81,25,LPG
+861,Diesel,80,75,Olej napedowy
+862,Benzynowy,27,60,Benzyna
+863,Elektryczny,8,77,LPG
+864,Benzynowy,11,8,Olej napedowy
+865,Benzynowy,23,94,Elektryczny
+866,Diesel,73,42,Olej napedowy
+867,Elektryczny,72,43,Olej napedowy
+868,Benzynowy,97,92,LPG
+869,Diesel,31,98,Elektryczny
+870,Diesel,59,67,Elektryczny
+871,Elektryczny,10,67,Olej napedowy
+872,Elektryczny,29,88,Elektryczny
+873,Benzynowy,78,59,LPG
+874,Diesel,47,41,Olej napedowy
+875,Elektryczny,15,7,Elektryczny
+876,Benzynowy,82,2,Elektryczny
+877,Benzynowy,67,99,Benzyna
+878,Diesel,13,42,Elektryczny
+879,Elektryczny,89,93,LPG
+880,Benzynowy,72,59,Benzyna
+881,Diesel,49,17,Olej napedowy
+882,Diesel,71,57,Elektryczny
+883,Benzynowy,81,56,Olej napedowy
+884,Elektryczny,49,76,Olej napedowy
+885,Elektryczny,94,21,LPG
+886,Elektryczny,51,95,LPG
+887,Benzynowy,50,56,Elektryczny
+888,Elektryczny,61,63,Olej napedowy
+889,Benzynowy,72,2,LPG
+890,Elektryczny,58,69,Elektryczny
+891,Benzynowy,15,11,Benzyna
+892,Diesel,77,38,Benzyna
+893,Benzynowy,38,41,Olej napedowy
+894,Diesel,64,9,LPG
+895,Elektryczny,40,28,Elektryczny
+896,Benzynowy,4,78,Olej napedowy
+897,Benzynowy,15,75,Elektryczny
+898,Diesel,57,7,Elektryczny
+899,Benzynowy,92,66,Elektryczny
+900,Elektryczny,32,27,LPG
+901,Benzynowy,20,20,Benzyna
+902,Diesel,9,27,LPG
+903,Diesel,48,3,Benzyna
+904,Diesel,61,31,Benzyna
+905,Elektryczny,62,70,Benzyna
+906,Benzynowy,82,65,Elektryczny
+907,Diesel,24,33,Elektryczny
+908,Benzynowy,3,68,Benzyna
+909,Diesel,55,90,LPG
+910,Elektryczny,47,95,LPG
+911,Benzynowy,50,61,Benzyna
+912,Benzynowy,29,85,Elektryczny
+913,Elektryczny,50,66,Elektryczny
+914,Benzynowy,14,55,LPG
+915,Elektryczny,9,38,Elektryczny
+916,Benzynowy,92,98,Elektryczny
+917,Elektryczny,35,59,Elektryczny
+918,Diesel,78,29,Elektryczny
+919,Elektryczny,33,47,Benzyna
+920,Diesel,82,29,Elektryczny
+921,Elektryczny,9,31,Benzyna
+922,Benzynowy,12,87,Olej napedowy
+923,Elektryczny,98,45,LPG
+924,Diesel,76,17,Elektryczny
+925,Benzynowy,71,4,Olej napedowy
+926,Benzynowy,23,58,Elektryczny
+927,Elektryczny,58,90,LPG
+928,Diesel,26,6,Olej napedowy
+929,Elektryczny,67,22,LPG
+930,Benzynowy,60,78,Elektryczny
+931,Benzynowy,79,56,LPG
+932,Diesel,81,82,Elektryczny
+933,Benzynowy,10,52,Benzyna
+934,Elektryczny,99,65,LPG
+935,Benzynowy,77,58,Elektryczny
+936,Diesel,60,43,LPG
+937,Elektryczny,11,85,Olej napedowy
+938,Elektryczny,9,73,Olej napedowy
+939,Diesel,79,6,Elektryczny
+940,Elektryczny,77,57,Elektryczny
+941,Diesel,22,41,Olej napedowy
+942,Diesel,61,94,Benzyna
+943,Diesel,3,92,Benzyna
+944,Elektryczny,61,3,Benzyna
+945,Diesel,58,34,Benzyna
+946,Benzynowy,99,44,Elektryczny
+947,Benzynowy,3,63,LPG
+948,Diesel,52,89,LPG
+949,Benzynowy,51,20,LPG
+950,Diesel,27,38,LPG
+951,Diesel,18,70,Olej napedowy
+952,Benzynowy,87,65,Elektryczny
+953,Elektryczny,44,3,Olej napedowy
+954,Benzynowy,75,91,Olej napedowy
+955,Benzynowy,9,51,Olej napedowy
+956,Benzynowy,53,48,Elektryczny
+957,Diesel,65,14,Elektryczny
+958,Benzynowy,38,49,Olej napedowy
+959,Benzynowy,67,85,Elektryczny
+960,Elektryczny,55,83,Elektryczny
+961,Benzynowy,41,99,Olej napedowy
+962,Elektryczny,28,79,LPG
+963,Elektryczny,66,16,LPG
+964,Benzynowy,35,87,Elektryczny
+965,Diesel,99,73,Benzyna
+966,Benzynowy,83,19,Elektryczny
+967,Diesel,24,92,Olej napedowy
+968,Elektryczny,7,74,Benzyna
+969,Elektryczny,30,90,LPG
+970,Diesel,34,37,LPG
+971,Benzynowy,52,41,Olej napedowy
+972,Diesel,39,93,Benzyna
+973,Elektryczny,28,45,LPG
+974,Diesel,97,11,Olej napedowy
+975,Elektryczny,2,34,Benzyna
+976,Benzynowy,6,23,LPG
+977,Diesel,82,88,Olej napedowy
+978,Diesel,67,31,Elektryczny
+979,Elektryczny,89,69,Elektryczny
+980,Benzynowy,76,82,Olej napedowy
+981,Elektryczny,19,41,Olej napedowy
+982,Benzynowy,60,78,Olej napedowy
+983,Elektryczny,50,31,Benzyna
+984,Benzynowy,2,29,Olej napedowy
+985,Diesel,14,7,Olej napedowy
+986,Benzynowy,75,84,Benzyna
+987,Elektryczny,69,44,LPG
+988,Elektryczny,74,49,Benzyna
+989,Diesel,87,100,Olej napedowy
+990,Benzynowy,52,89,Elektryczny
+991,Elektryczny,32,25,LPG
+992,Benzynowy,43,98,Olej napedowy
+993,Diesel,24,18,Elektryczny
+994,Elektryczny,22,47,Elektryczny
+995,Elektryczny,7,16,Elektryczny
+996,Benzynowy,8,48,Elektryczny
+997,Elektryczny,92,94,Olej napedowy
+998,Benzynowy,28,56,LPG
+999,Benzynowy,37,85,Elektryczny
+1000,Diesel,40,64,LPG
+

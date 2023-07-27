@@ -1,0 +1,5 @@
+load data
+infile 'dane\wypozyczenia.csv'
+append into table buf_wypozyczenia
+fields terminated by ','
+(id_wypozyczenia,id_pracownika,id_auta,id_klienta,id_rodzaj_wypozyczenia,stan_licznika_przed,data_wypozyczenia DATE "DD/MM/YYYY",id_rezerwacji,id_oddzialu,uwagi)

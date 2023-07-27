@@ -1,0 +1,5 @@
+load data
+infile 'dane\ubezpieczenia.csv'
+append into table buf_ubezpieczenia
+fields terminated by ','
+(id_ubezpieczenia,id_auta,rodzaj_ubezpieczenia,id_ubezpieczyciela,data_rozpoczecia_ubezpieczenia DATE "DD/MM/YYYY",data_zakonczenia_ubezpieczenia DATE "DD/MM/YYYY",skladka,data_zawieszenia_ubezpieczenia DATE "DD/MM/YYYY",uwagi)

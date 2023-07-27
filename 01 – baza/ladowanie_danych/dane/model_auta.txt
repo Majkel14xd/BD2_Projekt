@@ -1,0 +1,5 @@
+load data
+infile 'dane\model_auta.csv'
+append into table model_auta
+fields terminated by ','
+(id_model,model,rodzaj_nadwozia,data_produkcji DATE "YYYY",id_dane_techniczne_auta)

@@ -1,0 +1,61 @@
+
+SQL*Loader: Release 21.0.0.0.0 - Production on Sat Jun 4 23:24:04 2022
+Version 21.3.0.0.0
+
+Copyright (c) 1982, 2021, Oracle and/or its affiliates.  All rights reserved.
+
+Control File:   .\dane\ubezpieczenia.txt
+Data File:      dane\ubezpieczenia.csv
+  Bad File:     .\dane\ubezpieczenia.bad
+  Discard File:  none specified
+ 
+ (Allow all discards)
+
+Number to load: ALL
+Number to skip: 0
+Errors allowed: 50
+Bind array:     250 rows, maximum of 1048576 bytes
+Continuation:    none specified
+Path used:      Conventional
+
+Table BUF_UBEZPIECZENIA, loaded from every logical record.
+Insert option in effect for this table: APPEND
+
+   Column Name                  Position   Len  Term Encl Datatype
+------------------------------ ---------- ----- ---- ---- ---------------------
+ID_UBEZPIECZENIA                    FIRST     *   ,       CHARACTER            
+ID_AUTA                              NEXT     *   ,       CHARACTER            
+RODZAJ_UBEZPIECZENIA                 NEXT     *   ,       CHARACTER            
+ID_UBEZPIECZYCIELA                   NEXT     *   ,       CHARACTER            
+DATA_ROZPOCZECIA_UBEZPIECZENIA       NEXT     *   ,       DATE DD/MM/YYYY      
+DATA_ZAKONCZENIA_UBEZPIECZENIA       NEXT     *   ,       DATE DD/MM/YYYY      
+SKLADKA                              NEXT     *   ,       CHARACTER            
+DATA_ZAWIESZENIA_UBEZPIECZENIA       NEXT     *   ,       DATE DD/MM/YYYY      
+UWAGI                                NEXT     *   ,       CHARACTER            
+
+Record 1: Rejected - Error on table BUF_UBEZPIECZENIA, column ID_UBEZPIECZENIA.
+ORA-01722: invalid number
+
+Record 1002: Rejected - Error on table BUF_UBEZPIECZENIA, column ID_UBEZPIECZENIA.
+Column not found before end of logical record (use TRAILING NULLCOLS)
+
+Table BUF_UBEZPIECZENIA:
+  1000 Rows successfully loaded.
+  2 Rows not loaded due to data errors.
+  0 Rows not loaded because all WHEN clauses were failed.
+  0 Rows not loaded because all fields were null.
+
+
+Space allocated for bind array:                 580500 bytes(250 rows)
+Read   buffer bytes: 1048576
+
+Total logical records skipped:          0
+Total logical records read:          1002
+Total logical records rejected:         2
+Total logical records discarded:        0
+
+Run began on Sat Jun 04 23:24:04 2022
+Run ended on Sat Jun 04 23:24:05 2022
+
+Elapsed time was:     00:00:00.25
+CPU time was:         00:00:00.06

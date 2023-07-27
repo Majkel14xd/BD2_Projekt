@@ -1,0 +1,5 @@
+load data
+infile 'dane\rodzaj_wypozyczenia.csv'
+append into table buf_rodzaj_wypozyczenia
+fields terminated by ','
+(id_rodzaj_wypozyczenia,rodzaj_wypozyczenia,id_dane_firmy,uwagi)

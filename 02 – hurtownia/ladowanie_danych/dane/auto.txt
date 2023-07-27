@@ -1,0 +1,5 @@
+load data
+infile 'dane\auto.csv'
+append into table buf_auto
+fields terminated by ','
+(id_auta,przebieg,marka,id_model,nr_vin,nr_rejestracyjny,data_rejestracji_auta DATE "DD/MM/YYYY",cena,uwagi)

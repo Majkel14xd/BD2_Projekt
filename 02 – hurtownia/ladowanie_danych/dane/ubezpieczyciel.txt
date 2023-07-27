@@ -1,0 +1,5 @@
+load data
+infile 'dane\ubezpieczyciel.csv'
+append into table buf_ubezpieczyciel
+fields terminated by ','
+(id_ubezpieczyciela,nazwa,miejscowosc,adres)

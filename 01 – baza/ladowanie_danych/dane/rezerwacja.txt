@@ -1,0 +1,5 @@
+load data
+infile 'dane\rezerwacja.csv'
+append into table rezerwacja
+fields terminated by ','
+(id_rezerwacji,data_rezerwacji DATE "DD/MM/YYYY",ilosc_dni_rezerwacji)

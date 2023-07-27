@@ -1,0 +1,5 @@
+load data
+infile 'dane\zwroty.csv'
+append into table zwroty
+fields terminated by ','
+(id_zwrotu,id_wypozyczenia,id_pracownika,id_oddzialu,data_zwrotu DATE "DD/MM/YYYY",stan_licznika_po,uwagi)

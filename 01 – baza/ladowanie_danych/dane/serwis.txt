@@ -1,0 +1,5 @@
+load data
+infile 'dane\serwis.csv'
+append into table serwis
+fields terminated by '|'
+(id_serwisu,rodzaj_serwisu,nazwa_firmy_serwisujacej,adres_firmy_serwisujacej,id_auta,data_serwisu DATE "DD/MM/YYYY")

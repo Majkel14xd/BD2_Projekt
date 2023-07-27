@@ -1,0 +1,5 @@
+load data
+infile 'dane\pracownik.csv'
+append into table buf_pracownik
+fields terminated by ','
+(id_pracownika,imie,nazwisko,pesel,data_zatrudnienia DATE "DD/MM/YYYY",id_stanowiska,id_adres)

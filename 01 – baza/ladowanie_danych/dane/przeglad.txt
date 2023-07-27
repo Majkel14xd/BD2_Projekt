@@ -1,0 +1,5 @@
+load data
+infile 'dane\przeglad.csv'
+append into table przeglad
+fields terminated by '|'
+(id_przegladu,data_przegladu DATE "DD/MM/YYYY",cena,nazwa_firmy_przegladu,adres_firmy_przegladu,id_auta)

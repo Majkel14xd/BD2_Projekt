@@ -1,0 +1,5 @@
+load data
+infile 'dane\karta_platnicza.csv'
+append into table karta_platnicza
+fields terminated by ','
+(id_karta_platnicza,numer_karty_platniczej,data_waznosci_karty DATE "MM/YY",CVC)

@@ -1,0 +1,5 @@
+load data
+infile 'dane\oddzial_firmy.csv'
+append into table buf_oddzial_firmy
+fields terminated by ','
+(id_oddzialu,miasto,adres)

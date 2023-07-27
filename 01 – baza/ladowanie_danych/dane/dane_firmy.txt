@@ -1,0 +1,5 @@
+load data
+infile 'dane\dane_firmy.csv'
+append into table dane_firmy
+fields terminated by ','
+(id_dane_firmy,nazwa_firmy,numer_nip,kraj,miejscowosc,adres)

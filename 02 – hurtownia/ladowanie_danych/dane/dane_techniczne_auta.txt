@@ -1,0 +1,5 @@
+load data
+infile 'dane\dane_techniczne_auta.csv'
+append into table buf_dane_techniczne_auta
+fields terminated by ','
+(id_dane_techniczne_auta,silnik,moc_silnika,pojemosc_silnika,rodzaj_paliwa)

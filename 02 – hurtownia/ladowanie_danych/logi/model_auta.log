@@ -1,0 +1,57 @@
+
+SQL*Loader: Release 21.0.0.0.0 - Production on Sat Jun 4 23:24:01 2022
+Version 21.3.0.0.0
+
+Copyright (c) 1982, 2021, Oracle and/or its affiliates.  All rights reserved.
+
+Control File:   .\dane\model_auta.txt
+Data File:      dane\model_auta.csv
+  Bad File:     .\dane\model_auta.bad
+  Discard File:  none specified
+ 
+ (Allow all discards)
+
+Number to load: ALL
+Number to skip: 0
+Errors allowed: 50
+Bind array:     250 rows, maximum of 1048576 bytes
+Continuation:    none specified
+Path used:      Conventional
+
+Table BUF_MODEL_AUTA, loaded from every logical record.
+Insert option in effect for this table: APPEND
+
+   Column Name                  Position   Len  Term Encl Datatype
+------------------------------ ---------- ----- ---- ---- ---------------------
+ID_MODEL                            FIRST     *   ,       CHARACTER            
+MODEL                                NEXT     *   ,       CHARACTER            
+RODZAJ_NADWOZIA                      NEXT     *   ,       CHARACTER            
+DATA_PRODUKCJI                       NEXT     *   ,       DATE YYYY            
+ID_DANE_TECHNICZNE_AUTA              NEXT     *   ,       CHARACTER            
+
+Record 1: Rejected - Error on table BUF_MODEL_AUTA, column ID_MODEL.
+ORA-01722: invalid number
+
+Record 1002: Rejected - Error on table BUF_MODEL_AUTA, column ID_MODEL.
+Column not found before end of logical record (use TRAILING NULLCOLS)
+
+Table BUF_MODEL_AUTA:
+  1000 Rows successfully loaded.
+  2 Rows not loaded due to data errors.
+  0 Rows not loaded because all WHEN clauses were failed.
+  0 Rows not loaded because all fields were null.
+
+
+Space allocated for bind array:                 322500 bytes(250 rows)
+Read   buffer bytes: 1048576
+
+Total logical records skipped:          0
+Total logical records read:          1002
+Total logical records rejected:         2
+Total logical records discarded:        0
+
+Run began on Sat Jun 04 23:24:01 2022
+Run ended on Sat Jun 04 23:24:02 2022
+
+Elapsed time was:     00:00:00.58
+CPU time was:         00:00:00.09

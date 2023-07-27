@@ -1,0 +1,5 @@
+load data
+infile 'dane\dokument.csv'
+append into table dokument
+fields terminated by ','
+(id_dokumentu,rodzaj_dokumentu,numer_dokumentu,data_wydania DATE "DD/MM/YYYY" ,termin_waznosci DATE "DD/MM/YYYY")

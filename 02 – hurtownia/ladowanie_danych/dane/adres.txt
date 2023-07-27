@@ -1,0 +1,5 @@
+load data
+infile 'dane\adres.csv'
+append into table buf_adres
+fields terminated by ','
+(id_adres,panstwo,kod_pocztowy,poczta,miejscowosc,adres_zamieszkania)
